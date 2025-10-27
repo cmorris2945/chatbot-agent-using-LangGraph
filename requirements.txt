@@ -1,0 +1,10 @@
+# Requirements for the demo notebook
+# Stdlib modules like datetime and typing are not listed.
+langchain
+langchain-openai
+langchain-community
+langgraph
+openai
+tavily-python
+python-dotenv
+typing_extensions
